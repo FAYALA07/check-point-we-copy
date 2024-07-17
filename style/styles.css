@@ -146,3 +146,7 @@ header {
 .services__item--clinics {
   background: #1b2734;
 }
+.section-2 {
+  display: flex;
+  justify-content: space-between;
+}
